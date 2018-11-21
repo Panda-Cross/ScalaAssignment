@@ -1,6 +1,6 @@
 package pplAssignment
 
-object F2016A7PS0021P{
+object Convolution_2D{
 
 // Useful additional functions
    def flatten[A](list: List[List[A]]):List[A] = {
